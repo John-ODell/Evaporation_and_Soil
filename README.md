@@ -6,7 +6,6 @@ Items Needed
     - Water Level Sensor
     - Soil Moisture Sensor
     - DHT 11
-    - .96 OLED Screen
     - TF Micro-SD card Module
     - Adafriut-CircuitPython-Libraries-9x
     - Thony IDE 
