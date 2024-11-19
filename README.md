@@ -160,7 +160,7 @@ open the file "boot.py"
                 - "boot.py"
     - hit the green arrow
 
-Every Hour Each sensor records their wate level and along with the temperature in fahrenheit, celsius, and the humitidy and saves it the micro sd in a csv format.
+Every Hour Each sensor records their water level and along with the temperature in fahrenheit, celsius, and the humitidy and saves it the micro sd in a csv format.
 
 After First reading, Timestamps did not record correctly. I will try to correct this, but it may be another required lib. For now, Mark down the start time and check out the Juypter Notebook for time correction Code.  (No Need to hand write in excel)
 
